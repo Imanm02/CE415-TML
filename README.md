@@ -9,4 +9,28 @@ This repository contains solutions to the assignments, practices, slides, and so
 
 - [Overview](#overview)
 - [Assignments](#assignments)
-- [Quiz](#quiz)
+- [Practices](#practices)
+- [Slides](#slides)
+- [Source](#source)
+
+## Assignments
+
+In the "Assignment" folder, you will find the solutions to the four theoretical assignments given during the course.
+
+## Practices
+
+The "Practice" folder contains the exemplary assignment and their solutions, given during the course.
+
+## Slides
+
+The "Slides" folder contains the course slides used by Dr. Movaghar during the lectures.
+
+## Source
+
+The "Source" folder contains any additional course materials used in the lectures or assignments.
+
+
+
+## Maintainer
+
+- [Iman Mohammadi](https://github.com/Imanm02)
