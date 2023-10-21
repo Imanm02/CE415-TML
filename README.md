@@ -3,7 +3,7 @@ Solutions to Prof. Movaghar's CE415: Theory of Machines and Languages (Sharif Un
 
 ## Overview
 
-This repository contains solutions to the assignments, practices, slides, and sources for the CE415: Theory of Machines and Languages course at Sharif University of Technology, Spring 2024, taught by Prof. Movaghar.
+This repository contains solutions to the assignments, practices, slides, and sources for the CE415: Theory of Machines and Languages course at Sharif University of Technology, Spring 2023, taught by Prof. Movaghar.
 
 ## Table of Contents
 
