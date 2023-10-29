@@ -12,6 +12,7 @@ This repository contains solutions to the assignments, practices, slides, and so
 - [Practices](#practices)
 - [Slides](#slides)
 - [Source](#source)
+- [Maintainer](#maintainer)
 
 ## Assignments
 
