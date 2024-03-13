@@ -11,6 +11,7 @@ This repository contains solutions to the assignments, practices, slides, and so
 - [Assignments](#assignments)
 - [Practices](#practices)
 - [Slides](#slides)
+- [Notes](#notes)
 - [Source](#source)
 - [Maintainer](#maintainer)
 
@@ -25,6 +26,10 @@ The "Practice" folder contains the exemplary assignments and their solutions giv
 ## Slides
 
 The "Slides" folder contains the course slides used by Prof. Movaghar during the lectures.
+
+## Notes
+
+In the "Notes" folder, you will find the notes which were made by students or tutors during the course.
 
 ## Sources
 
